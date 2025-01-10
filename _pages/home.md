@@ -2,12 +2,11 @@
 layout: home
 author_profile: true
 permalink: /
+title: "Thomas Aston"
 ---
-
 
 # Hi, I'm Thomas 👋
 Welcome to my personal portfolio! Currently, I'm a **PhD Researcher** at the University of Edinburgh researching the use of numerical modelling and artificial intelligence technologies applied to sporting head impact research.
-
 <!-- ## Featured Projects
 - [Project 1](https://example.com): A brief description of your project.
 - [Project 2](https://example.com): Another project worth showcasing. -->
