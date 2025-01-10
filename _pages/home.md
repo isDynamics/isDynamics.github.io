@@ -1,7 +1,6 @@
 ---
-layout: splash
-title: "Welcome to My Portfolio"
-permalink: /
+layout: home
+author_profile: true
 ---
 
 # Hi, I'm [Your Name] 👋
