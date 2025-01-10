@@ -6,7 +6,7 @@ title: "Thomas Aston"
 ---
 
 # Hi, I'm Thomas 👋
-Welcome to my personal portfolio! Currently, I'm a **PhD Researcher** at the University of Edinburgh researching the use of numerical modelling and artificial intelligence technologies applied to sporting head impact research.
+Welcome to my personal portfolio! Currently, I'm a **PhD Researcher** at the University of Edinburgh researching the use of numerical modelling and artificial intelligence technologies applied to sporting head impact biomechanics.
 
 ## About Me
 Learn more [about me](/about/).
