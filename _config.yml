@@ -21,7 +21,7 @@ title                    : "Thomas Aston"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Thomas Aston"
-description              : "PhD Researcher at The University of Edinburgh."
+description              : "Engineering PhD Researcher at The University of Edinburgh."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Thomas Aston"
   avatar           : "/assets/images/headshot_TA.jpg"
-  bio              : "PhD Researcher at the University of Edinburgh."
+  bio              : "PhD Researcher in the School of Engineering at the University of Edinburgh."
   location         : "Edinburgh, Scotland"
   email            :
   links:
