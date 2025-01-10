@@ -7,3 +7,22 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.btn--black {
+    background-color: #000; /* Black background */
+    color: #fff; /* White text */
+    border: 2px solid #000; /* Black border */
+    padding: 10px 20px; /* Adjust padding for size */
+    text-decoration: none; /* Remove underline */
+    border-radius: 5px; /* Rounded corners */
+    font-weight: bold;
+    display: inline-block;
+    text-align: center;
+  }
+  
+.btn--black:hover {
+    background-color: #444; /* Dark gray on hover */
+    border-color: #444; /* Match border to hover color */
+    color: #fff; /* Keep text white */
+}
+  

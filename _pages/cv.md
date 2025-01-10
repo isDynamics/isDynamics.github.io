@@ -5,7 +5,7 @@ title: "CV"
 permalink: /cv/
 ---
 
-[Download My CV (PDF)](src="https://thomasaston.github.io/assets/images/Thomas_Aston_CV_Public.pdf"){: .btn .btn--primary }
+[Download my CV](https://thomasaston.github.io/assets/images/Thomas_Aston_CV_Public.pdf){: .btn .btn--black }
+
 
 ![My CV](../assets/images/Thomas_Aston_CV_Public.jpg)
-<!-- <iframe src="https://thomasaston.github.io/assets/images/Thomas_Aston_CV_Public.pdf" width="100%" height="600px"></iframe> -->
