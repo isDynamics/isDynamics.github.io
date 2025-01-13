@@ -4,13 +4,6 @@ excerpt: "Numerical modelling and evaluation of foam and air vest equestrian bod
 header:
 #   image: /assets/images/headshot_TA_compressed.jpg
   teaser: /assets/images/fomo-teaser.png
-# sidebar:
-#   - title: "Role"
-#     image: http://placehold.it/350x250
-#     image_alt: "logo"
-#     text: "Designer, Front-End Developer"
-#   - title: "Responsibilities"
-#     text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
