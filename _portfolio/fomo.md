@@ -2,8 +2,8 @@
 title: "Horse Riding Safety Vests"
 excerpt: "Edit excerpt."
 header:
-  image: /assets/images/headshot_TA_compressed.jpg
-  teaser: /assets/images/headshot_TA_compressed.jpg
+#   image: /assets/images/headshot_TA_compressed.jpg
+  teaser: /assets/images/fomo-teaser.png
 # sidebar:
 #   - title: "Role"
 #     image: http://placehold.it/350x250
