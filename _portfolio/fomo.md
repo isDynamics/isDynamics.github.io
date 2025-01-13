@@ -1,6 +1,6 @@
 ---
-title: "Horse Riding Safety Vests"
-excerpt: "Edit excerpt."
+title: "Equestrian Safety Vests"
+excerpt: "Numerical modelling and evaluation of foam and air vest equestrian body protectors."
 header:
 #   image: /assets/images/headshot_TA_compressed.jpg
   teaser: /assets/images/fomo-teaser.png
