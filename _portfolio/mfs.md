@@ -1,6 +1,6 @@
 ---
-title: "Equestrian Safety Vests"
-excerpt: "Numerical modelling and evaluation of foam and air vest equestrian body protectors."
+title: "PyMFS"
+excerpt: "Development of a Python implementation of the Method of Finite Spheres."
 header:
 #   image: /assets/images/headshot_TA_compressed.jpg
   teaser: /assets/images/mfs-teaser.png
