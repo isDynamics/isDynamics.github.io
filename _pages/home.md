@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 permalink: /
-title: ""
+title: "Thomas Aston"
 ---
 
 # Hi, I'm Thomas 👋
