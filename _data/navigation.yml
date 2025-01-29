@@ -4,9 +4,9 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "Portfolio"
-    url: /portfolio/
-  - title: "CV"
-    url: /cv/
+  - title: "EdiFEHM"
+    url: /edifehm/
+  - title: "Publications"
+    url: /publications/
   - title: "Contact"
     url: /contact/
