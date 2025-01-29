@@ -2,7 +2,7 @@
 title: Publications
 layout: collection
 permalink: /publications/
-collection: publications
+collection: portfolio
 entries_layout: grid
 classes: wide
 author_profile: true
