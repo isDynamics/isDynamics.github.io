@@ -5,4 +5,4 @@ title: "EdiFEHM"
 permalink: /edifehm/
 ---
 
-Work in progress...
+[Download the latest release](https://github.com/isDynamics/EdiFEHM){: .btn .btn--primary}
