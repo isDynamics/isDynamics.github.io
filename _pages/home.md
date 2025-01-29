@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 permalink: /
-title: "Thomas Aston"
+title: "isDynamics"
 ---
 
 Work in progress...
