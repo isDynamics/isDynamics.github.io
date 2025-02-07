@@ -25,3 +25,7 @@ The Edinburgh Finite Element Head Model, EdiFEHM, was developed during
     Your browser does not support the video tag.
   </video>
 </div>
+
+Translate global head kinematics to detailed spatiotemporal mechanical response of the brain. 
+
+<img src="../assets/images/edifehm/edifehm1.png" alt="EdiFEHM">
