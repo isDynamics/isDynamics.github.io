@@ -4,9 +4,11 @@ author_profile: true
 title: "EdiFEHM"
 permalink: /edifehm/
 ---
+The following page is still under construnction...
 
-The Edinburgh Finite Element Head Model, EdiFEHM, 
-[Download the latest release](https://github.com/isDynamics/EdiFEHM){: .btn .btn--primary}
+[Download the latest release (coming soon)](https://github.com/isDynamics/EdiFEHM){: .btn .btn--primary}
+
+The Edinburgh Finite Element Head Model, EdiFEHM, was developed during 
 
 <div class="video-container">
   <video width="120" autoplay muted loop playsinline>
