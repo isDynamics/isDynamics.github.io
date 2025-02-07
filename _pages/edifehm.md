@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 author_profile: true
 title: "EdiFEHM"
 permalink: /edifehm/
@@ -11,15 +12,15 @@ The following page is still under construnction...
 The Edinburgh Finite Element Head Model, EdiFEHM, was developed during 
 
 <div class="video-container">
-  <video width="120" autoplay muted loop playsinline>
+  <video width="200" autoplay muted loop playsinline>
     <source src="../assets/videos/edifehm1.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-  <video width="120" autoplay muted loop playsinline>
+  <video width="200" autoplay muted loop playsinline>
     <source src="../assets/videos/edifehm2.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-  <video width="120" autoplay muted loop playsinline>
+  <video width="200" autoplay muted loop playsinline>
     <source src="../assets/videos/edifehm3.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
