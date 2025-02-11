@@ -5,8 +5,8 @@ author_profile: true
 title: "EdiFEHM"
 permalink: /edifehm/
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_color: "#252a34"
+  overlay_filter: "0.3"
   overlay_image: /assets/images/edifehm/edifehm_splash.png
   actions:
     - label: "Download (coming soon)"
