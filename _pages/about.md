@@ -6,6 +6,7 @@ title: "About Us"
 permalink: /about/
 ---
 
+## Our work 
 Our research is focused on impulsive and structural dynamics. You can find out more about us and our research below.
 
 ## Our team 
@@ -36,17 +37,17 @@ Our research is focused on impulsive and structural dynamics. You can find out m
 
 <div>
   <img src="../assets/images/headshots/mem.png" alt="MEM" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
-  <p><strong>Maisie Edwards-Mowforth</strong><br>Bio coming soon</p>
+  <p><strong>Maisie Edwards-Mowforth</strong><br>PhD title:</p>
 </div>
 
 <div>
   <img src="../assets/images/headshots/ta.JPG" alt="Thomas Aston" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
-  <p><strong>Thomas Aston</strong><br>Bio coming soon</p>
+  <p><strong>Thomas Aston</strong><br>PhD title: Towards Video Informed Brain Injury Modelling in Sport</p><br>thomas.aston@ed.ac.uk</p>
 </div>
 
 <div>
   <img src="../assets/images/headshots/kf.png" alt="KF" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
-  <p><strong>Kayleigh Fowler</strong><br>Bio coming soon</p>
+  <p><strong>Kayleigh Fowler</strong><br>PhD title:</p>
 </div>
 
 </div>
