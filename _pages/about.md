@@ -13,13 +13,28 @@ Our research is focused on impulsive and structural dynamics. You can find out m
 ### **Current Academics**
 ![FTD](../assets/images/headshots/ftd.jfif){: width="120" height="120" style="border-radius: 50%;"}  
 
-**Prof. Filipe Teixeira-Dias**  
-*Personal Chair of Impulsive Dynamics*  
-Bio coming soon
+<div style="display: flex; justify-content: center; gap: 40px; text-align: center; flex-wrap: wrap;">
+
+<div>
+  <img src="../assets/images/headshots/ftd.jfif" alt="FTD" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
+  <p><strong> Prof. Filipe Teixeira-Dias</strong><br>Personal Chair of Impulsive Dynamics</p>
+</div>
+
+<div>
+  <img src="../assets/images/headshots/fmh.JPG" alt="FMH" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
+  <p><strong>Dr Francisca Martinez-Hergueta</strong><br>Reader</p>
+</div>
+
+<div>
+  <img src="../assets/images/headshots/dgc.JPG" alt="DGC" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
+  <p><strong>Dr David Garcia Cava</strong><br>Senior Lecturer</p>
+</div>
+
+</div>
 
 ### **Current PhD Students** 
 
-<div style="display: flex; justify-content: center; gap: 40px; text-align: left; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 40px; text-align: center; flex-wrap: wrap;">
 
 <div>
   <img src="../assets/images/headshots/ta.JPG" alt="MEM" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
