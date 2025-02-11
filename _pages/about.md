@@ -35,21 +35,28 @@ Our research is focused on impulsive and structural dynamics. You can find out m
 
 <div style="display: flex; justify-content: center; gap: 40px; text-align: center; flex-wrap: wrap;">
 
-<div>
-  <img src="../assets/images/headshots/mem.png" alt="MEM" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
-  <p><strong>Maisie Edwards-Mowforth</strong><br>PhD title:</p>
+  <div style="max-width: 250px;">
+    <img src="../assets/images/headshots/mem.JPG" alt="Maisie Edwards-Mowforth" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #d4a017;">
+    <p><strong>Maisie Edwards-Mowforth</strong><br>
+    <em>PhD title:</em><br> <span style="display: block; max-width: 200px; margin: 0 auto;">Bio coming soon</span></p>
+    <p><a href="mailto:maisie.email@ed.ac.uk"><i class="fas fa-envelope"></i></a></p>
+  </div>
+
+  <div style="max-width: 250px;">
+    <img src="../assets/images/headshots/ta.JPG" alt="Thomas Aston" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
+    <p><strong>Thomas Aston</strong><br>
+    <em>PhD title:</em><br> <span style="display: block; max-width: 200px; margin: 0 auto;">Towards Video Informed Brain Injury Modelling in Sport</span></p>
+    <p><a href="mailto:thomas.aston@ed.ac.uk"><i class="fas fa-envelope"></i></a></p>
+  </div>
+
+  <div style="max-width: 250px;">
+    <img src="../assets/images/headshots/kf.JPG" alt="Kayleigh Fowler" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #d4a017;">
+    <p><strong>Kayleigh Fowler</strong><br>
+    <em>PhD title:</em><br> <span style="display: block; max-width: 200px; margin: 0 auto;">Bio coming soon</span></p>
+    <p><a href="mailto:kayleigh.email@ed.ac.uk"><i class="fas fa-envelope"></i></a></p>
+  </div>
+
 </div>
 
-<div>
-  <img src="../assets/images/headshots/ta.JPG" alt="Thomas Aston" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
-  <p><strong>Thomas Aston</strong><br>PhD title: Towards Video Informed Brain Injury Modelling in Sport</p><br>thomas.aston@ed.ac.uk</p>
-</div>
-
-<div>
-  <img src="../assets/images/headshots/kf.png" alt="KF" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
-  <p><strong>Kayleigh Fowler</strong><br>PhD title:</p>
-</div>
-
-</div>
 
 ### **Current MEng and BEng Students**
