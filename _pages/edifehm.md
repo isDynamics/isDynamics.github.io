@@ -1,12 +1,20 @@
 ---
-layout: single
+layout: splash
 classes: wide
 author_profile: true
 title: "EdiFEHM"
 permalink: /edifehm/
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/edifehm/edifehm_splash.png
+  actions:
+    - label: "Download (coming soon)"
+      url: "https://github.com/isDynamics/EdiFEHM"
+excerpt: "Translating global head kinematics to detailed brain response."
 ---
 
-[Download the latest release (coming soon)](https://github.com/isDynamics/EdiFEHM){: .btn .btn--primary}
+<!-- [Download the latest release (coming soon)](https://github.com/isDynamics/EdiFEHM){: .btn .btn--primary} -->
 
 The University of Edinburgh Finite Element Head Model, EdiFEHM, was developed to investigate the role of various brain and intracranial structure representations in finite element head models.
 
@@ -25,7 +33,7 @@ The University of Edinburgh Finite Element Head Model, EdiFEHM, was developed to
   </video>
 </div>
 
-Using the finite element method, the EdiFEHM can be used to translate global head kinematics to detailed spatiotemporal mechanical response of the brain, providing insight into the mechanisms of brain injury.
+Using the finite element method, the EdiFEHM can be used to translate global head kinematics to detailed spatiotemporal mechanical response of the brain, providing insight into the brain injury mechanisms.
 
 ## Associated Publications
 
