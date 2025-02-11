@@ -1,0 +1,16 @@
+---
+title: "Investigation into Brain and Intracranial Structure Representations in FE Head Models"
+date: 2022-06-29
+categories:
+  - Publications
+---
+
+## 2022 - PhD Thesis, Katie McGill
+
+
+### Abstract
+
+Concussion is a common injury within contact sports, carrying risks of life-long consequences. Over the past two decades, Finite Element Head Models (FEHM) have become a valuable tool in researching the intracranial effects of head impacts and the risks of sustaining concussion-type injuries. However, different FEHM define different intracranial structures to varying levels of detail, which then have a range of material properties applied to them. As a result, different FEHM produce contrasting strain and stress responses in the brain to similar impacts. There is a lack of knowledge and clarity around the relative degree of influence different structural and property changes within FEHM and the conclusions subsequently drawn regarding concussion-type injuries. The aim of this PhD thesis was to identify key structures within the brain, investigate their influence on the intracranial dynamics on an FEHM and how they may affect the applicability of new, simple FEHM to head impact and injury research. Three intracranial structures were investigated: The surface topology of the brain surface, thought to protect the brain during impulses via the sulci and gyri; the falx and tentorium membranes, influencing intracranial dynamics as significantly stiffer structures than surrounding tissues; and the corpus callosum, a region identified as being sensitive in terms of injury risk. FEHM were developed including and excluding these structures. Their impact responses, and the influence of property changes, were assessed through simulations of scenarios replicating existing FEHM validation techniques and conditions found in sporting scenarios. Responses related to both experimental data and proposed concussion indicators were considered. A secondary aim was to propose an optimal FEHM structure based on the outcomes of the initial investigations. Introducing brain surface texture was seen to reduce strain and stress magnitudes at the centre of the brain, at the cost of an increase at the surface. This occurred despite simplifying the textural profile from that seen in vivo. Including the membranes damped the impact response, reducing brain strain and stress magnitudes. In their absence, strain waves propagated through the brain. Differentiating the corpus callosum increased strains within the region but had a limited influence on the wider response of the FEHM. Including textural detail and the membranes improved the performance of the FEHM and would be recommended in future model developments. The developed FEHM achieved fair - good biofidelity ratings with respect to their strain responses, and performed comparably to existing FEHM. This work makes valuable conclusions on the role of intracranial structures in simple FEHM and has created a valuable tool for investigating sporting head-impacts.
+
+
+[<em>Link to Publication</em>](https://era.ed.ac.uk/handle/1842/39293)
