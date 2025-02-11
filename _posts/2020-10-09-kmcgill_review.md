@@ -2,7 +2,8 @@
 title: "A Review of Validation Methods for the IntracranialResponse of FEHM to Blunt Impacts"
 date: 2020-10-09
 categories:
-  - Publications
+  - Publication
+classes: wide
 ---
 
 ## 2020 - Applied Sciences

@@ -2,11 +2,11 @@
 title: "Investigation into Brain and Intracranial Structure Representations in FE Head Models"
 date: 2022-06-29
 categories:
-  - Publications
+  - PhD Thesis
+classes: wide
 ---
 
 ## 2022 - PhD Thesis, Katie McGill
-
 
 ### Abstract
 

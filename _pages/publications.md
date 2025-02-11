@@ -1,13 +1,8 @@
 ---
-title: Publications
-layout: collection
+title: "Publications"
+layout: categories
 permalink: /publications/
-collection: portfolio
-entries_layout: grid
-classes: wide
 author_profile: true
-sort_by: order
-sort_order: reverse
 ---
 
 Under construction...
