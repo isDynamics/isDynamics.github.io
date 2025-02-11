@@ -10,14 +10,16 @@ Our research is focused on impulsive and structural dynamics. You can find out m
 
 ## Our team 
 ### **Principal Investigator**
-![Filipe Teixeira-Dias](../assets/images/headshots/ftd.jfif){: width="120" height="120" style="border-radius: 50%;"}  
+![FTD](../assets/images/headshots/ftd.jfif){: width="120" height="120" style="border-radius: 50%;"}  
 
 **Prof. Filipe Teixeira-Dias**  
 *Personal Chair of Impulsive Dynamics*  
 Bio coming soon
 
 ### **Current PhD Students**
-![Thomas Aston](../assets/images/headshots/ta.JPG){: width="120" height="120" style="border-radius: 50%; object-fit: cover;"}
+![MEM](../assets/images/headshots/mem.JPG){: width="120" height="120" style="border-radius: 50%; object-fit: cover;"}
+![TA](../assets/images/headshots/ta.JPG){: width="120" height="120" style="border-radius: 50%; object-fit: cover;"}
+![KF](../assets/images/headshots/kf.JPG){: width="120" height="120" style="border-radius: 50%; object-fit: cover;"}
 
 **Thomas Aston**  
 Bio coming soon
