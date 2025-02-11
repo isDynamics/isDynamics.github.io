@@ -18,7 +18,7 @@ Bio coming soon
 
 ### **Current PhD Students** 
 
-<div style="display: flex; justify-content: center; gap: 40px; text-align: center; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 40px; text-align: left; flex-wrap: wrap;">
 
 <div>
   <img src="../assets/images/headshots/ta.JPG" alt="MEM" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
