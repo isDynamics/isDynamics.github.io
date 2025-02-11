@@ -16,6 +16,6 @@ Our research is focused on impulsive and structural dynamics. You can find out m
 Bio coming soon
 
 ### **Current PhD Students**
-| ![Thomas Aston](../assets/images/headshots/ta.jpg){: width="120" height="120" style="border-radius: 50%;"} 
+![Thomas Aston](../assets/images/headshots/ta.JPG){: width="120" height="120" style="border-radius: 50%;"}
 **Thomas Aston**  
 Bio coming soon
