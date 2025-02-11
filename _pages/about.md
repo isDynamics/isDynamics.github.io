@@ -36,7 +36,7 @@ Our research is focused on impulsive and structural dynamics. You can find out m
 <div style="display: flex; justify-content: center; gap: 40px; text-align: center; flex-wrap: wrap;">
 
   <div style="max-width: 250px;">
-    <img src="../assets/images/headshots/mem.JPG" alt="Maisie Edwards-Mowforth" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #d4a017;">
+    <img src="../assets/images/headshots/mem.JPG" alt="Maisie Edwards-Mowforth" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
     <p><strong>Maisie Edwards-Mowforth</strong><br>
     <em>PhD title:</em><br> <span style="display: block; max-width: 200px; margin: 0 auto;">Bio coming soon</span></p>
     <p><a href="mailto:maisie.email@ed.ac.uk"><i class="fas fa-envelope"></i></a></p>
@@ -50,7 +50,7 @@ Our research is focused on impulsive and structural dynamics. You can find out m
   </div>
 
   <div style="max-width: 250px;">
-    <img src="../assets/images/headshots/kf.JPG" alt="Kayleigh Fowler" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #d4a017;">
+    <img src="../assets/images/headshots/kf.JPG" alt="Kayleigh Fowler" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
     <p><strong>Kayleigh Fowler</strong><br>
     <em>PhD title:</em><br> <span style="display: block; max-width: 200px; margin: 0 auto;">Bio coming soon</span></p>
     <p><a href="mailto:kayleigh.email@ed.ac.uk"><i class="fas fa-envelope"></i></a></p>
