@@ -1,8 +1,8 @@
 ---
-layout: single
+layout: home
 author_profile: true
 permalink: /
 title: "isDynamics"
 ---
 
-Work in progress...
+Under construction...
