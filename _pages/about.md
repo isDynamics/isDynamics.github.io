@@ -35,7 +35,7 @@ Our research is focused on impulsive and structural dynamics. You can find out m
 <div style="display: flex; justify-content: center; gap: 40px; text-align: center; flex-wrap: wrap;">
 
 <div>
-  <img src="../assets/images/headshots/mem.JPG" alt="MEM" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
+  <img src="../assets/images/headshots/mem.png" alt="MEM" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
   <p><strong>Maisie Edwards-Mowforth</strong><br>Bio coming soon</p>
 </div>
 
@@ -45,7 +45,7 @@ Our research is focused on impulsive and structural dynamics. You can find out m
 </div>
 
 <div>
-  <img src="../assets/images/headshots/kf.JPG" alt="KF" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
+  <img src="../assets/images/headshots/kf.png" alt="KF" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
   <p><strong>Kayleigh Fowler</strong><br>Bio coming soon</p>
 </div>
 
