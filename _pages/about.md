@@ -17,16 +17,19 @@ Our research is focused on impulsive and structural dynamics. You can find out m
 <div>
   <img src="../assets/images/headshots/ftd.jfif" alt="FTD" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
   <p><strong> Prof. Filipe Teixeira-Dias</strong><br>Personal Chair of Impulsive Dynamics</p>
+  <p><a href="mailto:f.teixeira-dias@ed.ac.uk"><i class="fas fa-envelope"></i></a></p>
 </div>
 
 <div>
   <img src="../assets/images/headshots/fmh.jpg" alt="FMH" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
   <p><strong>Dr Francisca Martinez-Hergueta</strong><br>Reader</p>
+  <p><a href="mailto:francisca.mhergueta@ed.ac.uk"><i class="fas fa-envelope"></i></a></p>
 </div>
 
 <div>
   <img src="../assets/images/headshots/dgc.jpg" alt="DGC" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
   <p><strong>Dr David Garcia Cava</strong><br>Senior Lecturer</p>
+  <p><a href="mailto:david.garcia@ed.ac.uk"><i class="fas fa-envelope"></i></a></p>
 </div>
 
 </div>
@@ -50,7 +53,7 @@ Our research is focused on impulsive and structural dynamics. You can find out m
   </div>
 
   <div style="max-width: 250px;">
-    <img src="../assets/images/headshots/kf.png" alt="Kayleigh Fowler" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
+    <img src="../assets/images/headshots/kf.png" alt="Kayleigh Moore" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
     <p><strong>Kayleigh Fowler</strong><br>
     <em>PhD title:</em><br> <span style="display: block; max-width: 200px; margin: 0 auto;">PhD title</span></p>
     <p><a href="mailto:kayleigh.email@ed.ac.uk"><i class="fas fa-envelope"></i></a></p>
