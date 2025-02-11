@@ -2,11 +2,10 @@
 layout: single
 classes: wide
 author_profile: true
-title: "About"
+title: "About Us"
 permalink: /about/
 ---
 
-## About us
 Our research is focused on impulsive and structural dynamics. You can find out more about us and our research below.
 
 ## Our team 
@@ -21,12 +20,12 @@ Our research is focused on impulsive and structural dynamics. You can find out m
 </div>
 
 <div>
-  <img src="../assets/images/headshots/fmh.JPG" alt="FMH" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
+  <img src="../assets/images/headshots/fmh.jpg" alt="FMH" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
   <p><strong>Dr Francisca Martinez-Hergueta</strong><br>Reader</p>
 </div>
 
 <div>
-  <img src="../assets/images/headshots/dgc.JPG" alt="DGC" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
+  <img src="../assets/images/headshots/dgc.jpg" alt="DGC" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
   <p><strong>Dr David Garcia Cava</strong><br>Senior Lecturer</p>
 </div>
 
