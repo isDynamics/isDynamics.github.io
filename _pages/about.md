@@ -21,7 +21,7 @@ Bio coming soon
 <div style="display: flex; justify-content: center; gap: 40px; text-align: center; flex-wrap: wrap;">
 
 <div>
-  <img src="../assets/images/headshots/mem.JPG" alt="MEM" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
+  <img src="../assets/images/headshots/ta.JPG" alt="MEM" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
   <p><strong>Maisie Edwards-Mowforth</strong><br>Bio coming soon</p>
 </div>
 
@@ -31,7 +31,7 @@ Bio coming soon
 </div>
 
 <div>
-  <img src="../assets/images/headshots/kf.JPG" alt="KF" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
+  <img src="../assets/images/headshots/ta.JPG" alt="KF" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
   <p><strong>Kayleigh Fowler</strong><br>Bio coming soon</p>
 </div>
 
