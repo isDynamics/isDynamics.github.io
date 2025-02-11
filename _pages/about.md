@@ -37,7 +37,7 @@ Our research is focused on impulsive and structural dynamics. You can find out m
     <p style="margin-top: 0;">Senior Lecturer</p>
   </div> -->
   <div style="max-width: 300px;">
-    <img src="../assets/images/headshots/mem.png" alt="Maisie Edwards-Mowforth" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
+    <img src="../assets/images/headshots/mem.jpg" alt="Maisie Edwards-Mowforth" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
     <p style="margin-bottom: 5px;"><strong>Maisie Edwards-Mowforth 
       <a href="mailto:maisie.email@ed.ac.uk" style="margin-left: 5px;"><i class="fas fa-envelope"></i></a>
     </strong></p>
@@ -53,14 +53,12 @@ Our research is focused on impulsive and structural dynamics. You can find out m
   </div>
 
   <div style="max-width: 300px;">
-    <img src="../assets/images/headshots/kf.png" alt="Kayleigh Moore" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
+    <img src="../assets/images/headshots/km.png" alt="Kayleigh Moore" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
     <p style="margin-bottom: 5px;"><strong>Kayleigh Moore
       <a href="mailto:kayleigh.email@ed.ac.uk" style="margin-left: 5px;"><i class="fas fa-envelope"></i></a>
     </strong></p>
     <p style="margin-top: 0;"><em>PhD title:</em><br> PhD title</p>
   </div>
 </div>
-
-
 
 ## **Previous members**
