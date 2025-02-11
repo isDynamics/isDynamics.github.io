@@ -4,5 +4,3 @@ layout: categories
 permalink: /publications/
 author_profile: true
 ---
-
-Under construction...
