@@ -9,19 +9,32 @@ permalink: /about/
 Our research is focused on impulsive and structural dynamics. You can find out more about us and our research below.
 
 ## Our team 
-### **Principal Investigator**
+### **Current Academics**
 ![FTD](../assets/images/headshots/ftd.jfif){: width="120" height="120" style="border-radius: 50%;"}  
 
 **Prof. Filipe Teixeira-Dias**  
 *Personal Chair of Impulsive Dynamics*  
 Bio coming soon
 
-### **Current PhD Students**
-![MEM](../assets/images/headshots/mem.JPG){: width="120" height="120" style="border-radius: 50%; object-fit: cover;"}
-![TA](../assets/images/headshots/ta.JPG){: width="120" height="120" style="border-radius: 50%; object-fit: cover;"}
-![KF](../assets/images/headshots/kf.JPG){: width="120" height="120" style="border-radius: 50%; object-fit: cover;"}
+### **Current PhD Students** 
 
-**Thomas Aston**  
-Bio coming soon
+<div style="display: flex; justify-content: center; gap: 40px; text-align: center; flex-wrap: wrap;">
+
+<div>
+  <img src="../assets/images/headshots/mem.JPG" alt="MEM" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
+  <p><strong>Maisie Edwards-Mowforth</strong><br>Bio coming soon</p>
+</div>
+
+<div>
+  <img src="../assets/images/headshots/ta.JPG" alt="Thomas Aston" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
+  <p><strong>Thomas Aston</strong><br>Bio coming soon</p>
+</div>
+
+<div>
+  <img src="../assets/images/headshots/kf.JPG" alt="KF" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
+  <p><strong>Kayleigh Fowler</strong><br>Bio coming soon</p>
+</div>
+
+</div>
 
 ### **Current MEng and BEng Students**
