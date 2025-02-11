@@ -16,20 +16,24 @@ Our research is focused on impulsive and structural dynamics. You can find out m
 
 <div>
   <img src="../assets/images/headshots/ftd.jfif" alt="FTD" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
-  <p><strong> Prof. Filipe Teixeira-Dias</strong><br>Personal Chair of Impulsive Dynamics</p>
-  <p><a href="mailto:f.teixeira-dias@ed.ac.uk"><i class="fas fa-envelope"></i></a></p>
+  <p><strong>Prof. Filipe Teixeira-Dias 
+      <a href="mailto:f.teixeira-dias@ed.ac.uk" style="margin-left: 5px;"><i class="fas fa-envelope"></i></a>
+    </strong></p><br>Personal Chair of Impulsive Dynamics</p>
+  <p style="margin-top: 5px;"><a href="mailto:f.teixeira-dias@ed.ac.uk"><i class="fas fa-envelope"></i></a></p>
 </div>
 
 <div>
   <img src="../assets/images/headshots/fmh.jpg" alt="FMH" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
-  <p><strong>Dr Francisca Martinez-Hergueta</strong><br>Reader</p>
-  <p><a href="mailto:francisca.mhergueta@ed.ac.uk"><i class="fas fa-envelope"></i></a></p>
+  <p><strong>Dr Francisca Martinez-Hergueta
+      <a href="mailto:francisca.mhergueta@ed.ac.uk" style="margin-left: 5px;"><i class="fas fa-envelope"></i></a>
+    </strong></p><br>Reader</p>
 </div>
 
 <div>
   <img src="../assets/images/headshots/dgc.jpg" alt="DGC" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
-  <p><strong>Dr David Garcia Cava</strong><br>Senior Lecturer</p>
-  <p><a href="mailto:david.garcia@ed.ac.uk"><i class="fas fa-envelope"></i></a></p>
+  <p><strong>Dr David Garcia-Cava
+      <a href="mailto:david.garcia@ed.ac.uk" style="margin-left: 5px;"><i class="fas fa-envelope"></i></a>
+    </strong></p><br>Senior Lecturer</p>
 </div>
 
 </div>
@@ -40,23 +44,26 @@ Our research is focused on impulsive and structural dynamics. You can find out m
 
   <div style="max-width: 250px;">
     <img src="../assets/images/headshots/mem.png" alt="Maisie Edwards-Mowforth" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
-    <p><strong>Maisie Edwards-Mowforth</strong><br>
+    <p><strong>Maisie Edwards-Mowforth 
+      <a href="mailto:maisie.email@ed.ac.uk" style="margin-left: 5px;"><i class="fas fa-envelope"></i></a>
+    </strong></p>
     <em>PhD title:</em><br> <span style="display: block; max-width: 300px; margin: 0 auto;">PhD title</span></p>
-    <p><a href="mailto:maisie.email@ed.ac.uk"><i class="fas fa-envelope"></i></a></p>
   </div>
 
   <div style="max-width: 250px;">
     <img src="../assets/images/headshots/ta.JPG" alt="Thomas Aston" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
-    <p><strong>Thomas Aston</strong><br>
+    <p><strong>Thomas Aston 
+      <a href="mailto:thomas.aston@ed.ac.uk" style="margin-left: 5px;"><i class="fas fa-envelope"></i></a>
+    </strong></p>
     <em>PhD title:</em><br> <span style="display: block; max-width: 300px; margin: 0 auto;">Towards Video Informed Brain Injury Modelling in Sport</span></p>
-    <p><a href="mailto:thomas.aston@ed.ac.uk"><i class="fas fa-envelope"></i></a></p>
   </div>
 
   <div style="max-width: 250px;">
     <img src="../assets/images/headshots/kf.png" alt="Kayleigh Moore" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
-    <p><strong>Kayleigh Fowler</strong><br>
+    <p><strong>Maisie Edwards-Mowforth 
+      <a href="mailto:kayleigh.email@ed.ac.uk" style="margin-left: 5px;"><i class="fas fa-envelope"></i></a>
+    </strong></p>
     <em>PhD title:</em><br> <span style="display: block; max-width: 300px; margin: 0 auto;">PhD title</span></p>
-    <p><a href="mailto:kayleigh.email@ed.ac.uk"><i class="fas fa-envelope"></i></a></p>
   </div>
 
 </div>
