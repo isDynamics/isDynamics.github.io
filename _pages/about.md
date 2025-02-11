@@ -10,7 +10,6 @@ Our research is focused on impulsive and structural dynamics. You can find out m
 
 ## Our team 
 ### **Current Academics**
-![FTD](../assets/images/headshots/ftd.jfif){: width="120" height="120" style="border-radius: 50%;"}  
 
 <div style="display: flex; justify-content: center; gap: 40px; text-align: center; flex-wrap: wrap;">
 
