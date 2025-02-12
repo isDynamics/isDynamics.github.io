@@ -69,9 +69,14 @@ Our research is focused on impulsive and structural dynamics. You can find out m
     <p style="margin-bottom: 5px;"><strong>Samuel Thompson</strong></p>
     <p style="margin-top: 0;">PhD Student</p>
   </div>
+  <div style="max-width: 200px;">
+    <img src="../assets/images/headshots/placeholder.jpg" alt="James Young" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+    <p style="margin-bottom: 5px;"><strong>James Young</strong></p>
+    <p style="margin-top: 0;">PhD Student</p>
+  </div>
 
   <div style="max-width: 200px;">
-    <img src="../assets/images/headshots/placeholder.png" alt="Alex Ukrasin" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+    <img src="../assets/images/headshots/placeholder.jpg" alt="Alex Ukrasin" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
     <p style="margin-bottom: 5px;"><strong>Alex Ukrasin</strong></p>
     <p style="margin-top: 0;">BEng Student</p>
   </div>
