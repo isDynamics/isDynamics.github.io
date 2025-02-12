@@ -30,11 +30,12 @@ Our research is focused on impulsive and structural dynamics. You can find out m
   </div>
 
   <div style="max-width: 300px;">
-    <img src="../assets/images/headshots/ta.JPG" alt="Thomas Aston" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
-    <p style="margin-bottom: 5px;"><strong>Thomas Aston 
-      <a href="mailto:thomas.aston@ed.ac.uk" style="margin-left: 5px;"><i class="fas fa-envelope"></i></a>
-    </strong></p>
+    <a href="https://thomasaston.github.io" target="_blank" style="text-decoration: none; color: inherit;">
+      <img src="../assets/images/headshots/ta.JPG" alt="Thomas Aston" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
+      <p style="margin-bottom: 5px;"><strong>Thomas Aston</strong></p>
+    </a>
     <p style="margin-top: 0;">PhD Student<br><em>Video Informed Brain Injury Modelling in Sport</em></p>
+    <p><a href="mailto:thomas.aston@ed.ac.uk"><i class="fas fa-envelope"></i></a></p>
   </div>
 
   <div style="max-width: 300px;">
@@ -46,6 +47,7 @@ Our research is focused on impulsive and structural dynamics. You can find out m
   </div>
 
 </div>
+
 
 
 ## **Previous members**
