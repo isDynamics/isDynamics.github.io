@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 author_profile: true
-title: "About Us"
+title: "About us"
 permalink: /about/
 ---
 
@@ -21,27 +21,12 @@ Our research is focused on impulsive and structural dynamics. You can find out m
     <p style="margin-top: 0;">Personal Chair of Impulsive Dynamics</p>
   </div>
 
-  <!-- <div style="max-width: 300px;">
-    <img src="../assets/images/headshots/fmh.jpg" alt="FMH" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
-    <p style="margin-bottom: 5px;"><strong>Dr Francisca Martinez-Hergueta
-      <a href="mailto:francisca.mhergueta@ed.ac.uk" style="margin-left: 5px;"><i class="fas fa-envelope"></i></a>
-    </strong></p>
-    <p style="margin-top: 0;">Reader</p>
-  </div>
-
-  <div style="max-width: 300px;">
-    <img src="../assets/images/headshots/dgc.jpg" alt="DGC" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
-    <p style="margin-bottom: 5px;"><strong>Dr David Garcia-Cava
-      <a href="mailto:david.garcia@ed.ac.uk" style="margin-left: 5px;"><i class="fas fa-envelope"></i></a>
-    </strong></p>
-    <p style="margin-top: 0;">Senior Lecturer</p>
-  </div> -->
   <div style="max-width: 300px;">
     <img src="../assets/images/headshots/mem.jpg" alt="Maisie Edwards-Mowforth" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
     <p style="margin-bottom: 5px;"><strong>Maisie Edwards-Mowforth 
       <a href="mailto:maisie.edwards-mowforth@ed.ac.uk" style="margin-left: 5px;"><i class="fas fa-envelope"></i></a>
     </strong></p>
-    <p style="margin-top: 0;"><em>PhD Student:</em><br> PhD title</p>
+    <p style="margin-top: 0;">PhD Student<br><em>Ballistic Response of Additively Manufactured Maraging Steel<em></p>
   </div>
 
   <div style="max-width: 300px;">
@@ -49,7 +34,7 @@ Our research is focused on impulsive and structural dynamics. You can find out m
     <p style="margin-bottom: 5px;"><strong>Thomas Aston 
       <a href="mailto:thomas.aston@ed.ac.uk" style="margin-left: 5px;"><i class="fas fa-envelope"></i></a>
     </strong></p>
-    <p style="margin-top: 0;"><em>PhD Student:</em><br> Towards Video Informed Brain Injury Modelling in Sport</p>
+    <p style="margin-top: 0;">PhD Student<br><em>Video Informed Brain Injury Modelling in Sport<em></p>
   </div>
 
   <div style="max-width: 300px;">
@@ -57,7 +42,7 @@ Our research is focused on impulsive and structural dynamics. You can find out m
     <p style="margin-bottom: 5px;"><strong>Kayleigh Moore
       <a href="mailto:k.moore-8@sms.ed.ac.uk" style="margin-left: 5px;"><i class="fas fa-envelope"></i></a>
     </strong></p>
-    <p style="margin-top: 0;"><em>PhD Student:</em><br> PhD title</p>
+    <p style="margin-top: 0;">PhD Student<br><em>Hybrid Shielding for Hypervelocity Impact of Orbital Debris<em></p>
   </div>
 </div>
 
