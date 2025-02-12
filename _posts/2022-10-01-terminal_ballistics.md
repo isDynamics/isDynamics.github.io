@@ -2,7 +2,7 @@
 title: "Predictions on multi-class terminal ballistics datasets using conditional Generative Adversarial Networks"
 date: 2022-10-01
 categories:
-  - Publication
+  - Journal Paper
 classes: wide
 ---
 

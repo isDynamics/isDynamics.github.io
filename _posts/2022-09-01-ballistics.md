@@ -2,7 +2,7 @@
 title: "Ballistic response of armour plates using Generative Adversarial Networks"
 date: 2022-09-01
 categories:
-  - Publication
+  - Journal Paper
 classes: wide
 ---
 

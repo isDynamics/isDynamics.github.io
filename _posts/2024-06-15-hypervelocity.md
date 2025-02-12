@@ -2,7 +2,7 @@
 title: "Optimisation of hybrid composite shields for hypervelocity Micro-Meteoroid and Orbital Debris (MMOD) impact"
 date: 2024-06-15
 categories:
-  - Publication
+  - Journal Paper
 classes: wide
 ---
 

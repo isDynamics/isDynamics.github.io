@@ -2,7 +2,7 @@
 title: "Head impacts in non-helmeted sports: Measuring and locating the impact force"
 date: 2022-10-27
 categories:
-  - Publication
+  - Journal Paper
 classes: wide
 ---
 

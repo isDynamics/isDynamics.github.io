@@ -2,7 +2,7 @@
 title: "Hybrid Shielding for Hypervelocity Impact of Orbital Debris on Unmanned Spacecraft"
 date: 2022-07-13
 categories:
-  - Publication
+  - Journal Paper
 classes: wide
 ---
 

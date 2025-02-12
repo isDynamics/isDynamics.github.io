@@ -2,7 +2,7 @@
 title: "Ballistic impact resistance of additive manufactured high-strength maraging steel: An experimental study"
 date: 2021-08-16
 categories:
-  - Publication
+  - Journal Paper
 classes: wide
 ---
 
