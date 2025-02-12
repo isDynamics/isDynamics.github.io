@@ -41,7 +41,7 @@ Our research is focused on impulsive and structural dynamics. You can find out m
     <p style="margin-bottom: 5px;"><strong>Maisie Edwards-Mowforth 
       <a href="mailto:maisie.email@ed.ac.uk" style="margin-left: 5px;"><i class="fas fa-envelope"></i></a>
     </strong></p>
-    <p style="margin-top: 0;"><em>PhD title:</em><br> PhD title</p>
+    <p style="margin-top: 0;"><em>PhD Student:</em><br> PhD title</p>
   </div>
 
   <div style="max-width: 300px;">
@@ -49,7 +49,7 @@ Our research is focused on impulsive and structural dynamics. You can find out m
     <p style="margin-bottom: 5px;"><strong>Thomas Aston 
       <a href="mailto:thomas.aston@ed.ac.uk" style="margin-left: 5px;"><i class="fas fa-envelope"></i></a>
     </strong></p>
-    <p style="margin-top: 0;"><em>PhD title:</em><br> Towards Video Informed Brain Injury Modelling in Sport</p>
+    <p style="margin-top: 0;"><em>PhD Student:</em><br> Towards Video Informed Brain Injury Modelling in Sport</p>
   </div>
 
   <div style="max-width: 300px;">
@@ -57,7 +57,7 @@ Our research is focused on impulsive and structural dynamics. You can find out m
     <p style="margin-bottom: 5px;"><strong>Kayleigh Moore
       <a href="mailto:kayleigh.email@ed.ac.uk" style="margin-left: 5px;"><i class="fas fa-envelope"></i></a>
     </strong></p>
-    <p style="margin-top: 0;"><em>PhD title:</em><br> PhD title</p>
+    <p style="margin-top: 0;"><em>PhD Student:</em><br> PhD title</p>
   </div>
 </div>
 
