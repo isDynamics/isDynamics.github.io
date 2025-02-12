@@ -26,7 +26,7 @@ Our research is focused on impulsive and structural dynamics. You can find out m
     <p style="margin-bottom: 5px;"><strong>Maisie Edwards-Mowforth 
       <a href="mailto:maisie.edwards-mowforth@ed.ac.uk" style="margin-left: 5px;"><i class="fas fa-envelope"></i></a>
     </strong></p>
-    <p style="margin-top: 0;">PhD Student<br><em>Ballistic Response of Additively Manufactured Maraging Steel<em></p>
+    <p style="margin-top: 0;">PhD Student<br><em>Ballistic Response of Additively Manufactured Maraging Steel</em></p>
   </div>
 
   <div style="max-width: 300px;">
@@ -34,7 +34,7 @@ Our research is focused on impulsive and structural dynamics. You can find out m
     <p style="margin-bottom: 5px;"><strong>Thomas Aston 
       <a href="mailto:thomas.aston@ed.ac.uk" style="margin-left: 5px;"><i class="fas fa-envelope"></i></a>
     </strong></p>
-    <p style="margin-top: 0;">PhD Student<br><em>Video Informed Brain Injury Modelling in Sport<em></p>
+    <p style="margin-top: 0;">PhD Student<br><em>Video Informed Brain Injury Modelling in Sport</em></p>
   </div>
 
   <div style="max-width: 300px;">
@@ -42,8 +42,10 @@ Our research is focused on impulsive and structural dynamics. You can find out m
     <p style="margin-bottom: 5px;"><strong>Kayleigh Moore
       <a href="mailto:k.moore-8@sms.ed.ac.uk" style="margin-left: 5px;"><i class="fas fa-envelope"></i></a>
     </strong></p>
-    <p style="margin-top: 0;">PhD Student<br><em>Hybrid Shielding for Hypervelocity Impact of Orbital Debris<em></p>
+    <p style="margin-top: 0;">PhD Student<br><em>Hybrid Shielding for Hypervelocity Impact of Orbital Debris</em></p>
   </div>
+
 </div>
+
 
 ## **Previous members**
