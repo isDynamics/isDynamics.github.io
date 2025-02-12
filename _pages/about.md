@@ -54,26 +54,27 @@ Our research is focused on impulsive and structural dynamics. You can find out m
 
   <div style="max-width: 200px;">
     <img src="../assets/images/headshots/js.jpg" alt="Jazim Sohail" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
-    <p style="margin-bottom: 5px;"><strong>Jazim Sohail</p>
+    <p style="margin-bottom: 5px;"><strong>Jazim Sohail</strong></p>
     <p style="margin-top: 0;">PhD Student</p>
   </div>
 
   <div style="max-width: 200px;">
     <img src="../assets/images/headshots/kmcgill.jpg" alt="Katie McGill" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
-    <p style="margin-bottom: 5px;"><strong>Katie McGill</p>
+    <p style="margin-bottom: 5px;"><strong>Katie McGill</strong></p>
     <p style="margin-top: 0;">PhD Student</p>
   </div>
 
   <div style="max-width: 200px;">
     <img src="../assets/images/headshots/st.jfif" alt="Samuel Thompson" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
-    <p style="margin-bottom: 5px;"><strong>Samuel Thompson</p>
+    <p style="margin-bottom: 5px;"><strong>Samuel Thompson</strong></p>
     <p style="margin-top: 0;">PhD Student</p>
   </div>
 
   <div style="max-width: 200px;">
     <img src="../assets/images/headshots/placeholder.png" alt="Alex Ukrasin" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
-    <p style="margin-bottom: 5px;"><strong>Alex Ukrasin</p>
+    <p style="margin-bottom: 5px;"><strong>Alex Ukrasin</strong></p>
     <p style="margin-top: 0;">BEng Student</p>
   </div>
 
 </div>
+
