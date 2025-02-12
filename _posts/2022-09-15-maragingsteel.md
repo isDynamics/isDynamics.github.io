@@ -1,0 +1,19 @@
+---
+title: "A numerical modelling and deep learning approach to the ballistic impact resistance of additive manufactured maraging steel"
+date: 2022-09-15
+categories:
+  - Conference
+classes: wide
+---
+
+## 2022 - Light-Weight Armour for Defense & Security
+
+
+### Abstract
+
+Improved performance of protective structures is critical to keep pace with demand for lightweight and mobile fortification. In recent years, additive manufacturing (AM) has enabled the fabrication of parts with multi-scale geometrical optimisation in the aerospace and automotive sectors – technology which could accelerate development of lightweight armour systems. Powder-bed fusion (PBF) is an AM process whereby powder is selectively fused by an energy source to build up material layer upon layer according to a computer model. Maraging steel is a low carbon steel well suited to the PBF process, drawing extreme strength from intermetallic precipitates developed during AM cyclic heating and post-AM heat treatment. On the basis that a material’s yield strength is strongly correlated with perforation resistance, AM maraging steel is a promising candidate for protection against ballistic impact.
+The testing of high-strength AM materials, however, escalates the complexity and cost of experimental campaigns. As a result, optimisation tasks become increasingly dependent on numerical modelling and predictive technologies. Widely used numerical techniques for ballistic impact problems were implemented to model experimental tests on as-printed and heat treated maraging steel [1]. Perforation processes for as-printed AM maraging steel were reproduced with good accuracy, but the models fell short for the ultra high-strength heat treated material. The latter is attributed to an inability of the material model to capture both projectile fracture, the mechanism that gives superior ballistic performance to the material, and the extent of target fragmentation present in experimental tests. The numerical simulation results are a step toward a functional model of AM maraging behaviour during ballistic penetration and perforation, but nevertheless highlight the drawbacks of methods reliant on empirical data, lacking at present due to experimental limitations.
+Deep learning methods are computational systems which employ artificial neural networks (ANNs). Generative adversarial networks (GANs) fall into the category of ‘unsupervised’ deep learning: algorithms designed to extract patterns from unstructured datasets. Recent advancements in GANs and transfer learning have found utility in high-dimensional problem spaces with limited training data. These methods could hold potential to accelerate developments in AM for ballistic protection – a design process governed by a large number of complex factors for which experimental data is limited.
+A GAN model was constructed and trained solely on experimental ballistic test data [1], as depicted graphically in Figure 1. After training, the GAN generated accurate quantitative predictions of ballistic limit velocity for both heat treated and as-printed maraging steel datasets, surpassing that of the numerical models, as shown in Table 1. Potential avenues for further research include exposing the GAN to variations of material composition and geometry and combining the use of GANs and numerical modelling. These techniques could be important tools in drawing upon the geometrical freedom and customisation possibilities of AM, as well as diminishing cost and resource requirements in the development stage of AM maraging steel for future protective structures.
+
+[<em>Link to Publication</em>](https://www.research.ed.ac.uk/en/publications/a-numerical-modelling-and-deep-learning-approach-to-the-ballistic)
