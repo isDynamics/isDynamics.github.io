@@ -87,5 +87,11 @@ Our research is focused on impulsive and structural dynamics. You can find out m
     <p style="margin-top: 0;">Undergraduate</p>
   </div>
 
+  <div style="max-width: 200px;">
+    <img src="../assets/images/headshots/placeholder.jpg" alt="Ciara Ball" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+    <p style="margin-bottom: 5px;"><strong>Ciara Ball</strong></p>
+    <p style="margin-top: 0;">Undergraduate</p>
+  </div>
+
 </div>
 
