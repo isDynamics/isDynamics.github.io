@@ -33,7 +33,7 @@ The University of Edinburgh Finite Element Head Model, EdiFEHM, was developed to
   </video>
 </div>
 
-Using the finite element method, the EdiFEHM can be used to translate global head kinematics to detailed spatiotemporal mechanical response of the brain, providing insight into the brain injury mechanisms.
+Using the finite element method, the EdiFEHM can be used to translate global head kinematics to detailed spatiotemporal mechanical response of the brain, providing insight into brain injury mechanisms beyond simple peak kinematics.
 
 ## Associated Publications
 
