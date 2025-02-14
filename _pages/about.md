@@ -15,7 +15,7 @@ Our research is focused on impulsive and structural dynamics. You can find out m
 
   <div style="max-width: 300px;">
     <img src="../assets/images/headshots/ftd.jfif" alt="FTD" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
-    <p style="margin-bottom: 5px;"><strong>Prof. Filipe Teixeira-Dias 
+    <p style="margin-bottom: 5px;"><strong>Filipe Teixeira-Dias 
       <a href="mailto:f.teixeira-dias@ed.ac.uk" style="margin-left: 5px;"><i class="fas fa-envelope"></i></a>
     </strong></p>
     <p style="margin-top: 0;">Personal Chair of Impulsive Dynamics</p>
@@ -84,7 +84,7 @@ Our research is focused on impulsive and structural dynamics. You can find out m
   <div style="max-width: 200px;">
     <img src="../assets/images/headshots/placeholder.jpg" alt="Alex Ukrasin" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
     <p style="margin-bottom: 5px;"><strong>Alex Ukrasin</strong></p>
-    <p style="margin-top: 0;">BEng Student</p>
+    <p style="margin-top: 0;">Undergraduate</p>
   </div>
 
 </div>
