@@ -37,6 +37,6 @@ Using the finite element method, the EdiFEHM can be used to translate global hea
 
 ## Associated Publications
 
-- [Sensitivity of Brain ]
+- [Sensitivity of Brain Injury Models to Head Pose, Sample Rate and Interpolation](https://isdynamics.github.io/preprint/brain/)
 - [Investigation into Brain and Intracranial Structure Representations in FE Head Models](https://isdynamics.github.io/phd%20thesis/kmcgill_thesis/)
 - [A Review of Validation Methods for the Intracranial Response of FEHM to Blunt Impacts](https://isdynamics.github.io/journal%20paper/kmcgill_review/)
